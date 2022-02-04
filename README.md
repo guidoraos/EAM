@@ -1,6 +1,6 @@
 # EAM
 
-This Python program can be used to generate a LAMMPS-compatible SETFL file, for EAM-based MD simulations of liquid Bi, Pb, Ni and Fe and their mixtures.
+This Python 2.X program can be used to generate a LAMMPS-compatible SETFL file, for EAM-based MD simulations of liquid Bi, Pb, Ni and Fe and their mixtures.
 
 If you publish work based on this code, please cite:
 
