@@ -1,6 +1,5 @@
-# This Python program can be used to generate a LAMMPS-compatible SETFL file,
+# This Python 2.X program can be used to generate a LAMMPS-compatible SETFL file,
 # for EAM-based MD simulations of liquid Bi, Pb, Ni and Fe and their mixtures.
-# Guido Raos, Politecnico di Milano, Italy:  guido.raos@polimi.it 
 
 # If you publish work based on this code, please cite:
 # Gao, Y., Takahashi, M., Cavallotti, C. and Raos, G., 2018.
